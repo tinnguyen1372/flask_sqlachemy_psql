@@ -1,0 +1,11 @@
+flask
+flask_marshmallow
+flask_sqlalchemy
+flask_migrate
+psycopg2
+pytest
+coverage
+SQLAlchemy
+itsdangerous==2.0.1
+marshmallow-sqlalchemy
+json
